@@ -7,3 +7,7 @@ This model Romb 6 mm
 This model Oval 3 mm
 
 <img src="https://github.com/oditynet/AirFilter/blob/main/AirFilter-Oval.png" width="250" height="auto" />
+
+Крючек для полотенца
+
+<img src="https://github.com/oditynet/AirFilter/blob/main/крючек.jpg" width="250" height="auto" />
