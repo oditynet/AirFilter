@@ -3,10 +3,7 @@
 This model Romb 6 mm
 
 <img src="https://github.com/oditynet/AirFilter/blob/main/AirFilter.png" width="250" height="auto" />
-
-This model Oval 3 mm
-
-<img src="https://github.com/oditynet/AirFilter/blob/main/AirFilter-Oval.png" width="250" height="auto" />
+<img src="https://github.com/oditynet/AirFilter/blob/main/airfilter.jpg" width="250" height="auto" />
 
 Крючек для полотенца
 
@@ -14,4 +11,4 @@ This model Oval 3 mm
 
 Воронка2
 
-<img src="https://github.com/oditynet/AirFilter/blob/main/воронка2.png" width="250" height="auto" />
+<img src="https://github.com/oditynet/AirFilter/blob/main/Воронка2.png" width="250" height="auto" />
