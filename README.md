@@ -11,3 +11,7 @@ This model Oval 3 mm
 Крючек для полотенца
 
 <img src="https://github.com/oditynet/AirFilter/blob/main/крючек.jpg" width="250" height="auto" />
+
+Воронка2
+
+<img src="https://github.com/oditynet/AirFilter/blob/main/воронка2.png" width="250" height="auto" />
