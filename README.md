@@ -11,4 +11,4 @@ This model Romb 6 mm
 
 Воронка2
 
-<img src="https://github.com/oditynet/AirFilter/blob/main/Воронка2.png" width="250" height="auto" />
+<img src="https://github.com/oditynet/AirFilter/blob/main/Воронка2_suzuki jimny.png" width="250" height="auto" />
